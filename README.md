@@ -1,5 +1,5 @@
 # phase-diagram-ML
-Code for phase diagram prediction from my research project last summer. I learned a lot from my previous machine learning research project https://github.com/pearloyewole/Predict-Student-Grades, and have applied the learned practices in this project (such as a larger dataset, cross validation, and working with more complex machine learning)
+Code for phase diagram prediction from my research project last summer. I learned a lot from my previous machine learning research project https://github.com/pearloyewole/Predict-Student-Grades, and have applied the learned practices in this project (such as a larger dataset, cross validation, and working with more complex machine learning algorithms)
 
 
 # Methodology: 
